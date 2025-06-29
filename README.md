@@ -10,7 +10,7 @@ Selamat datang di proyek To-Do List PHP yang membawa Anda ke masa depan produkti
 * **Manajemen Tugas Intuitif:** Tambahkan tugas baru dengan mudah dan tandai sebagai selesai dengan sekali klik. ✅
 * **Persistensi Data:** Tugas-tugas Anda aman tersimpan di database MySQL. 💾
 
-## ⚙️ **Persyaratan Sistem (Dasar Untuk Petualangan Ini)**
+## ⚙️ **Persyaratan Sistem**
 
 Untuk memulai perjalanan dengan Neon Horizon, pastikan Anda memiliki lingkungan server web yang siap:
 
